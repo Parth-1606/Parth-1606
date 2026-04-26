@@ -54,11 +54,11 @@
 - 📊 Performance tracking dashboard  
 
 ---
-
-### 🔹 PrepEd (Disaster Learning Platform)
-- 🎮 Interactive disaster preparedness platform :contentReference[oaicite:2]{index=2}  
-- 👨‍👩‍👧 Parent dashboard for monitoring  
-- 📚 Learning via simulations & games  
+GoldenHour Emergency Triage & Hospital Routing System (GitHub)                                                                                                                         
+Node.js, Express.js, PostgreSQL, Redis, WebSocket (ws), OpenRouteService API, Joi     – Built a real-time emergency triage and hospital routing system that predicts patient severity using NEWS2 scoring 
+and determines ICU, ventilator, and specialist requirements.  – Designed a constraint-based routing engine to select the optimal hospital by evaluating care capability, bed 
+availability, specialist presence, hospital load, and transit time.  – Developed a scalable backend with PostgreSQL, Redis caching, and WebSocket-based real-time updates to 
+dispatch ambulances ef iciently and handle dynamic hospital capacity changes. 
 
 ---
 
