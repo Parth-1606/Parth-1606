@@ -11,8 +11,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Engineering undergrad (CGPA: **9.24/10**)
-- 💡 Into AI/ML, full-stack builds and real-world problem solving
+- 🎓 Computer Engineering undergrad @ Ajeenkya DY Patil College of Engineering (CGPA: **9.24/10**)
+- 💡 AI/ML-focused: RAG pipelines, LLM agents, computer vision — shipped from idea to deployment
 - 🛠️ Shipped AI products with Python, LLMs, computer vision and the MERN stack
 - 💼 Ex-Full Stack Developer @ **Mormat** (Jan–Apr 2026)
 - 🚀 Open to internships and collaborations
@@ -43,11 +43,11 @@
 - Constraint-based routing engine: care capability, beds, specialists, load, transit time
 - Redis caching + WebSocket dispatch for live ambulance coordination
 
-### 🔹 [AI_Trainer](https://github.com/Parth-1606/AI_Trainer) — AI Fitness Trainer
-`Python` `OpenCV` `MediaPipe BlazePose` `NumPy` `Flask` `pyttsx3`
-- Real-time workout tracking: rep counting + posture correction via computer vision
-- Live voice feedback on biomechanics across 5 exercises
-- Dashboards for workout history, calories and performance metrics
+### 🔹 [Assessment Recommender](https://github.com/Parth-1606/SHL-Conversational-Assessment-Recommendation-Agent) — Conversational AI Agent
+`FastAPI` `Gemini Embeddings` `ChromaDB`
+- Recommends assessments by indexing a 377-record catalog into a vector DB with Gemini semantic retrieval
+- Multi-turn conversations reconstructed from message history (no server sessions), 8-turn cap, 30s timeouts
+- Fixed a prod deploy by pinning the Python runtime; live on Render
 
 ---
 
@@ -55,13 +55,13 @@
 
 **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+**AI/ML:** ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=black) ![HuggingFace](https://img.shields.io/badge/huggingface-FF9D0A?style=flat-square&logo=huggingface&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 
 **Backend:** ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Databases:** ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**AI/ML:** ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=black) ![HuggingFace](https://img.shields.io/badge/huggingface-FF9D0A?style=flat-square&logo=huggingface&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+**Databases:** ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
 
 **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -72,7 +72,7 @@
 - IBM — Develop Generative AI Applications: Get Started
 
 ## 🎓 Education
-**Bachelor of Engineering, Computer Engineering** — CGPA: 9.24/10
+**Bachelor of Engineering, Computer Engineering** — Ajeenkya DY Patil College of Engineering · CGPA: 9.24/10
 
 ---
 
